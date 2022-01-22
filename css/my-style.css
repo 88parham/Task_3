@@ -1,0 +1,70 @@
+.background-is-gray {
+  background-color: #f7f7f7;
+}
+
+.margin--bottom--1_5 {
+  margin-bottom: 1.5rem;
+}
+
+.center-is-important {
+  display: flex;
+  justify-content: center !important;
+}
+
+.background-is-green {
+  background-color: hsl(171, 100%, 41%);
+}
+
+.background-is-red {
+  background-color: hsl(348, 100%, 61%);
+}
+
+.background-is-easy {
+  background-color: hsl(141, 53%, 53%);
+}
+
+.background-is-normal {
+  background-color: hsl(48, 100%, 67%);
+}
+
+.background-is-hard {
+  background-color: hsl(348, 100%, 61%);
+}
+
+.difficulty {
+  width: 7rem;
+  display: flex;
+  justify-content: center;
+}
+
+.rounded-border-025 {
+  border-radius: 0.25rem;
+}
+
+.img-is-centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.middle-box {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.justify-text-is-centered {
+  text-align: center;
+  justify-content: center;
+}
+
+.padding-025 {
+  padding: 0.25rem !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .mobile-bottom-margin {
+    margin-bottom: 1rem;
+  }
+}
